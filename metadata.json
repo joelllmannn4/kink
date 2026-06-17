@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Informasi Posyandu",
+  "description": "Aplikasi manajemen Posyandu untuk pencatatan tumbuh kembang anak (KMS Digital), riwayat imunisasi, ibu hamil, serta dilengkapi dengan Asisten Kesehatan Posyandu bertenaga AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
